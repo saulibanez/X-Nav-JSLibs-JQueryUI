@@ -7,4 +7,4 @@ Prepara una interfaz de usuario que muestre la potencia de JQueryUI. En la medid
 
 ## Visualizar el ejercicio:
 
-saulibanez.github.io/X-Nav-JSLibs-JQueryUI
+http://saulibanez.github.io/X-Nav-JSLibs-JQueryUI
